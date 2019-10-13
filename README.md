@@ -1,2 +1,2 @@
 # Seq2seqPOS
-Sequence to Sequence for POS tagging KERAS
+A simple implementation of Sequence to Sequence for POS tagging using KERAS
